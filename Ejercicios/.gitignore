@@ -7,6 +7,7 @@
 *.o
 *.obj
 *.tlog
+*.sln
 
 # Precompiled Headers
 *.gch
