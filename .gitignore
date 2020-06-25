@@ -32,3 +32,12 @@
 *.exe
 *.out
 *.app
+
+*.suo
+*.VC.db 
+*.ilk
+*.pdb
+*.vcxproj
+*.vs
+
+/Debug/
